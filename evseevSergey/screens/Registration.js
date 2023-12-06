@@ -1,4 +1,5 @@
-import { Button, Text, SafeAreaView } from "react-native";
+import { Button, Text, SafeAreaView, TextInpu } from "react-native";
+import { useState } from "react";
 
 const Registration = () => {
   return (
